@@ -1,2 +1,2 @@
 # Resolution_analysis
-This is a script to analyze edge spread function (ESF) from a half black half white noisy image 
+This is a notebook that go step by step to analyze edge spread function (ESF) from a half black half white noisy image 
